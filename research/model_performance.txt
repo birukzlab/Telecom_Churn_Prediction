@@ -1,0 +1,72 @@
+Logistic Regression
+Model Performance for Training set
+- Accuracy: 0.7754
+- f1_score: 0.7830
+- Precision: 0.7574
+----------------------------------------
+Model Performance for Test set
+- Accuracy: 0.7424
+- f1_score: 0.7467
+- Precision: 0.7344
+===================================
+
+K-Neighbors Classfication
+Model Performance for Training set
+- Accuracy: 0.8520
+- f1_score: 0.8660
+- Precision: 0.7915
+----------------------------------------
+Model Performance for Test set
+- Accuracy: 0.7397
+- f1_score: 0.7487
+- Precision: 0.7236
+===================================
+
+Decision Tree Classification
+Model Performance for Training set
+- Accuracy: 0.8002
+- f1_score: 0.8075
+- Precision: 0.7788
+----------------------------------------
+Model Performance for Test set
+- Accuracy: 0.8025
+- f1_score: 0.8123
+- Precision: 0.7740
+===================================
+
+Random Forest Classification
+Model Performance for Training set
+- Accuracy: 0.8849
+- f1_score: 0.8898
+- Precision: 0.8539
+----------------------------------------
+Model Performance for Test set
+- Accuracy: 0.8348
+- f1_score: 0.8411
+- Precision: 0.8103
+===================================
+
+XGB Classification
+Model Performance for Training set
+- Accuracy: 0.8722
+- f1_score: 0.8721
+- Precision: 0.8730
+----------------------------------------
+Model Performance for Test set
+- Accuracy: 0.8797
+- f1_score: 0.8804
+- Precision: 0.8757
+===================================
+
+Cat Boost Classification
+Model Performance for Training set
+- Accuracy: 0.9087
+- f1_score: 0.9084
+- Precision: 0.9115
+----------------------------------------
+Model Performance for Test set
+- Accuracy: 0.8689
+- f1_score: 0.8699
+- Precision: 0.8637
+===================================
+
